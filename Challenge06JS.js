@@ -34,14 +34,3 @@ function checkWinner(team1, score1 , team2, score2){
 }
 
 checkWinner('Dauphin', dauphin2, 'Koala', koala2)
-
-//tache numero 2
-// console.log("comparaison et affichage")
-// console.log("premier jeu")
-// if (meansDauphinsScore1 < meansKoalasScore1) {
-//     console.log("Pour ce premier jeu, les gagnants sont les Koalas !")
-// }else if (meansDauphinsScore1 > meansKoalasScore1){
-//     console.log("Pour ce premier jeu, les gagnants sont les Dauphins !")
-// }else if (meansDauphinsScore1 === meansKoalasScore1){
-//     console.log("Pour ce premier jeu, les équipes sont à égalité !")
-// };
